@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body background="index.jpeg">
+<blink><h3 align="center" ><font color="white">TYPE.</h3></blink>
+<form action="a3.jsp" id="carform">
+<div align="center">
+<select name="carlist" form="carform">
+  <option value="taxi"><font color="yellow"><b>COMMERCIAL</b></option>
+  <option value="normal"><b>NON-COMERCIAL(WHITE)</b></option>
+  
+</select>
+<select name="carlist2" form="carform">
+  <option value="lmv"><font color="yellow"><b>light motor vehicle</b></option>
+  <option value="mcwog"><b>motor cycle without gear</b></option>
+  
+</select>
+<input type="submit" name="b4" value="GET">
+</div>
+</form>
+
+</body>
+</html>

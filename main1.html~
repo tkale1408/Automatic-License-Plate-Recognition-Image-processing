@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body background="index.jpeg">
+<blink><h3 align="center" ><font color="white">KNOW  WHERE THE VEHICLE IS FROM.</h3></blink>
+<form action="a3.jsp">
+<div align="center">
+<h1>VEHICLE NO</h1>
+<input type="text" name="text1" value="MH14CB987">
+<input type="submit" name="b3" value="GET">
+</div>
+</form>
+
+</body>
+</html>

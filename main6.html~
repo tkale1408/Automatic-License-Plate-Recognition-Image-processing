@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body background="index.jpeg">
+<blink><h3 align="center" ><font color="white">STATE ANALYSIS.</h3></blink>
+<form action="NewFile.jsp" method="post">
+<div align="center">
+<h1>STATE-WISE VEHICLES</h1>
+
+<input type="submit" name="query1" value="b6">
+</div>
+</form>
+
+</body>
+</html>

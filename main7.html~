@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body bgcolor="black">
+<blink><h3 align="center" ><font color="white"><u>AVERAGE VEHICLES BETWEEN DATES.</u></h3></blink>
+<hr> </hr>
+<form action="NewFile.jsp" method="post">
+<div align="center">
+<h1>DATE1</h1>
+<input type="text" name="text71"><br>
+<h1>DATE2</h1>
+<input type="text" name="text72"><br>
+<input type="submit" name="query1" value="b7">
+</div>
+</form>
+
+</body>
+</html>

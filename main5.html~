@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body bgcolor="black">
+<blink><h3 align="center" ><font color="white">THE OWNER INFO.</h3></blink>
+<hr color="white"></hr>
+<form action="NewFile.jsp" method="post">
+<div align="center">
+<h1>VEHICLE NO</h1>
+<input type="text" name="text5">
+<input type="submit" name="query1" value="b5">
+</div>
+</form>
+
+</body>
+</html>
